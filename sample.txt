@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 aa
-=======
-a
->>>>>>> 687e43abb5ce381ef3a506328b5f1d3cc7c0afbe
